@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-orange?logo=sqlite)
 ![pandas](https://img.shields.io/badge/Analysis-pandas%20%2F%20scipy-150458?logo=pandas)
-![Power BI](https://img.shields.io/badge/BI-Power%20BI%20%2F%20Tableau-F2C811?logo=powerbi)
+![Power BI](https://img.shields.io/badge/BI-Power%20BI%20%2F%20Tlogo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
