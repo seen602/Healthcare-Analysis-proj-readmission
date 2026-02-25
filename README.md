@@ -151,7 +151,7 @@ scored_patients.csv      ── Power BI / Tableau dashboard data source
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/healthcare-readmission.git
+git clone https://github.com/seen602/healthcare-readmission.git
 cd healthcare-readmission
 
 # Install dependencies
@@ -168,7 +168,7 @@ jupyter notebook healthcare_readmission_analysis.ipynb
 
 ---
 
-## 📈 Dashboard (Power BI / Tableau)
+## 📈 Dashboard (Power BI)
 
 Connect `scored_patients.csv` to your BI tool for an interactive dashboard.
 
@@ -194,9 +194,8 @@ Connect `scored_patients.csv` to your BI tool for an interactive dashboard.
 
 ## 👤 Author
 
-**Your Name** | Data Analyst  
-📧 your.email@example.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🌐 [Portfolio](https://yourportfolio.com)
+**Kathe Sai Sreenivas** | Data Analyst  
+📧 kathesreenivas.16@gmail.com.com | 🔗 [LinkedIn](https://linkedin.com/in/kathe-sreenivas) 
 
 ---
 
-*⭐ If this project helped you, please star the repo!*
