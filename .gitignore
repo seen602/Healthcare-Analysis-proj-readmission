@@ -1,0 +1,26 @@
+# Data files — download separately from UCI
+diabetic_data.csv
+IDs_mapping.csv
+
+# Generated outputs — recreated by running notebook
+scored_patients.csv
+visuals/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
